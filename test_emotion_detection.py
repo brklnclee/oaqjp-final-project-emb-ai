@@ -1,5 +1,6 @@
 import unittest
 from EmotionDetection.emotion_detection import emotion_detector
+import json
 
 # python3 -m unittest test_emotion_detection.py
 
